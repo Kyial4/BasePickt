@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YouTubeApp</string>
+    <string name="get_string_image">Введите ссылку на картинку</string>
+    <string name="submit">submit</string>
+    <string name="random_button">random button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
